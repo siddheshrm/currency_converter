@@ -23,4 +23,4 @@ This application allows users to convert between different currencies with real-
 
 ## About Me
 
-You can learn more about me and explore my other projects on my [personal portfolio website](https://siddheshmestri.online).
+You can learn more about me and explore my other projects on my [personal portfolio website](https://siddheshmestri.in).
